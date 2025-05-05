@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Welcome%20to%20Helmi's%20GitHub!&fontSize=40&fontColor=ffffff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to%20Helmi's%20GitHub!&fontColor=ffffff&color=0:00bfff,100:1e90ff&height=150&fontSize=40&fontAlignY=50" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Helmi Tri Budi Yulianto</h1>
