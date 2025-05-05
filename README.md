@@ -59,7 +59,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:helmity.ty@gmail.com"><img src="https://img.shields.io/badge/Gmail-helmi@example.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:helmity.ty@gmail.com"><img src="https://img.shields.io/badge/helmity.ty@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/helmi-tri"><img src="https://img.shields.io/badge/LinkedIn-Helmi%20Tri%20Budi%20Yulianto-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
