@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20Helmi's%20GitHub!&fontColor=00bfff&fontSize=40&height=150&animation=fadeIn" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Helmi Tri Budi Yulianto</h1>
+<h1 align="center">Hi 👋, I'm Helmi</h1>
 <p align="center">
   💡 <i>"Nothing is impossible; success comes not from ability alone, but from the willingness to act."</i>
 </p>
