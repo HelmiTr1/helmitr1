@@ -16,7 +16,7 @@
 - 💡 Passionate about scalable systems, clean code, and efficient architecture  
 - 🌱 Currently exploring: Cloud-native apps & API Security  
 - 💬 Tech Stack: PHP, Java, Dart, C#, C++, VB.NET, ASP.NET  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourname) | Email: you@example.com
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/helmi-tri) | Email: helmity.ty@gmail.com
 
 ---
 
@@ -59,8 +59,8 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Gmail-helmi@example.com-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-Helmi%20Tri%20Budi%20Yulianto-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:helmity.ty@gmail.com"><img src="https://img.shields.io/badge/Gmail-helmi@example.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/helmi-tri"><img src="https://img.shields.io/badge/LinkedIn-Helmi%20Tri%20Budi%20Yulianto-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 <p align="center">
