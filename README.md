@@ -63,10 +63,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HelmiTr1&show_icons=true&theme=tokyonight&hide=issues,prs,stars,forks,repo&rank_icon=false&card_width=490" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelmiTr1&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelmiTr1&theme=tokyonight" width="100%" />
 </p>
 
 ---
