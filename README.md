@@ -7,6 +7,7 @@
 <p align="center">
   💡 <i>"Nothing is impossible; success comes not from ability alone, but from the willingness to act."</i>
 </p>
+
 ---
 
 ### 👨‍💻 About Me
