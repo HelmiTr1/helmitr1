@@ -7,7 +7,7 @@
 <p align="center">
   💡 <i>"Nothing is impossible; success comes not from ability alone, but from the willingness to act."</i>
 </p>
-
+![Helmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelmiTr1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 
 ### 👨‍💻 About Me
