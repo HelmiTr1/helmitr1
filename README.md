@@ -62,7 +62,7 @@
 
 ### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helmitr1&show_icons=true&locale=en" alt="helmitr1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HelmiTr1&show_icons=true&locale=en" alt="helmitr1" /></p>
 
 
 ---
