@@ -62,9 +62,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelmiTr1&theme=tokyonight" width="100%" />
-</p>
+![Helmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelmiTr1&show_icons=true&theme=radical)
 
 ---
 
