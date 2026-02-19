@@ -15,7 +15,7 @@
 - 🔭 Fullstack Developer with experience across backend, frontend, and system integration  
 - 💡 Passionate about scalable systems, clean code, and efficient architecture  
 - 🌱 Currently exploring: Cloud-native apps & API Security  
-- 💬 Tech Stack: PHP, Java, Dart, C#, C++, VB.NET, ASP.NET  
+- 💬 Tech Stack: PHP, Java, Dart, C#, C++, VB.NET, ASP.NET, Python  
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/helmi-tri) | Email: helmity.ty@gmail.com
 
 ---
